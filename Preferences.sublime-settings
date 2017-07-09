@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"draw_white_space": "all",
 	"ignored_packages":
 	[
@@ -9,4 +9,3 @@
 	"tab_size": 2,
 	"theme": "SoDaReloaded Dark.sublime-theme"
 }
-
