@@ -16,9 +16,9 @@ The packages I usually install are:
 - [Monokai Extended](monokai extended)
 - [Theme - SoDaReloaded](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)
 - [TrailingSpaces](https://packagecontrol.io/search/trailingspaces)
+- [SyncedSideBar](https://packagecontrol.io/packages/SyncedSideBar)
 - [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter)
 - [Sublime Linter Pylint](https://packagecontrol.io/packages/SublimeLinter-pylint)
-
 
 For [Unity](https://unity3d.com/)
 - [Unity Shader](https://packagecontrol.io/search/unity%20shader)
