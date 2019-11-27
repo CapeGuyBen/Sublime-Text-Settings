@@ -19,6 +19,7 @@ The packages I usually install are:
 - [SyncedSideBar](https://packagecontrol.io/packages/SyncedSideBar)
 - [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter)
 - [Sublime Linter Pylint](https://packagecontrol.io/packages/SublimeLinter-pylint)
+- [Terminal](https://packagecontrol.io/packages/Terminal)
 
 For [Unity](https://unity3d.com/)
 - [Unity Shader](https://packagecontrol.io/search/unity%20shader)
