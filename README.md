@@ -20,6 +20,7 @@ The packages I usually install are:
 - [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter)
 - [Sublime Linter Pylint](https://packagecontrol.io/packages/SublimeLinter-pylint)
 - [Terminal](https://packagecontrol.io/packages/Terminal)
+- [Eval](https://packagecontrol.io/packages/Eval)
 
 For [Unity](https://unity3d.com/)
 - [Unity Shader](https://packagecontrol.io/search/unity%20shader)
