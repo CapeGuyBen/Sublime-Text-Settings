@@ -13,7 +13,7 @@ The settings file is [here](https://github.com/CapeGuy-Ben/Sublime-Text-3-Settin
 The packages I usually install are:
 
 - [Package Control](https://packagecontrol.io/)
-- [Monokai Extended](monokai extended)
+- [Monokai Extended](https://packagecontrol.io/packages/Monokai%20Extended)
 - [Theme - SoDaReloaded](https://packagecontrol.io/packages/Theme%20-%20SoDaReloaded)
 - [TrailingSpaces](https://packagecontrol.io/search/trailingspaces)
 - [SyncedSideBar](https://packagecontrol.io/packages/SyncedSideBar)
