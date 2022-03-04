@@ -6,7 +6,7 @@ My Favourite Settings for [Sublime Text](https://www.sublimetext.com).
 
 Required packages should be installed via [Package Control](https://packagecontrol.io/) which can now be installed from within [Sublime Text](https://www.sublimetext.com) via the `Install Package Control` command.
 
-The settings file is [here](https://github.com/CapeGuy-Ben/Sublime-Text-Settings/blob/master/Preferences.sublime-settings).
+The settings file is [here](https://github.com/CapeGuyBen/Sublime-Text-Settings/blob/master/Preferences.sublime-settings).
 
 ## Packages
 
