@@ -1,11 +1,10 @@
 {
-	"caret_style": "phase",
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"draw_white_space": "all",
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
+	"show_encoding": true,
 	"tab_size": 4,
-	"theme": "SoDaReloaded Dark.sublime-theme"
+	"remember_workspace": false,
 }
