@@ -22,6 +22,7 @@ The settings file is [here](https://github.com/CapeGuyBen/Sublime-Text-Settings/
 - [Markdown Extended](https://packagecontrol.io/packages/Markdown%20Extended)
 - [Markdown Live Preview](https://packagecontrol.io/packages/MarkdownLivePreview)
 - [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
+- [HexViewer](https://packagecontrol.io/packages/HexViewer)
 
 For [Unity](https://unity3d.com/)
 - [Unity Shader](https://packagecontrol.io/search/unity%20shader)
